@@ -1,3 +1,26 @@
 body{
-    background-color: hotpink;
+    background-color: teal;
+}
+label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: royalblue;
+    background-color: bisque;
+}
+input{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: palegreen;
+    background-color: cadetblue;
+    width: 400px;
+}
+p{
+    background-color: brown;
+    height: 70px;
+    align-content: center;
+}
+ul{
+    align-items: end;
+}
+div{
+    width: 500px;
+    background-color: aqua;
 }
